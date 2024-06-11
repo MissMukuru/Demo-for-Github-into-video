@@ -1,14 +1,3 @@
-## Demo 
-some decription!
-This is crazy!
+## This is a brand new feature for my main
 
-## subheader
-
-watch tutorial on youtube
-
-## local development
-
-1.Open terminal on your browser
-
-
-
+watch me
